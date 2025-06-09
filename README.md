@@ -26,7 +26,12 @@ Change the dataset path in the train.py file to the location of the dataset.
 ```shell
 python train.py
 ```
-# Testing
+## Testing
+### Step1
+Please download the weights in the current directory.
+### Step2
+Please change the relevant path in the test.py file
+### Step3
 ```shell
 python test.py 
 ```
