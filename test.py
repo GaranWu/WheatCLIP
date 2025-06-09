@@ -35,7 +35,7 @@ def main():
     # 定义训练参数
     device = args.device
     img_size = args.img_size
-    save_file = os.path.join("/home/liyaoxi/pycharm/count_w/CSNet_clip_density/out/out_675583", "best.pth")
+    save_file = os.path.join("best_844040.pth")
     print(save_file)
 
 
