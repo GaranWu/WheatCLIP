@@ -9,6 +9,7 @@ paper: WheatCLIP: Object-Aware Wheat Ear Counting with Contrast Learning and Uni
 
 ## About Data
 We use the global wheat Head Detection 2021 ([dataset](http://www.global-wheat.com/gwhd.html)) for training.
+The density map is marked in the annotation.zip compressed package.
 
 ## Code Structure
 `train.py` To train the model. 
