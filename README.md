@@ -16,6 +16,13 @@ We use the global wheat Head Detection 2021 ([dataset](http://www.global-wheat.c
 `test.py` To test the model. 
 
 ## Training
+### Step1  
+Please divide the data set according to the csv file.
+
+### Step2
+Change the dataset path in the train.py file to the location of the dataset.
+
+### Step3
 ```shell
 python train.py
 ```
@@ -24,4 +31,4 @@ python train.py
 python test.py 
 ```
 # Weight
-During training, the weights of the first ten layers of VGG16 need to be loaded.
+ ([Here](https://pan.baidu.com/s/1Ts6YQszzqiltmb9FTSvHuA?pwd=9fgn)) are the trained WheatCLIP weights, the first ten layers of VGG16 weights, and the fine-tuned YOLOv8 weights.
