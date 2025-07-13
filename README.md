@@ -2,7 +2,7 @@
 
 **WheatCLIP** is a wheat ear counting framework that uses large models and contrastive learning for feature enhancement.
 
-paper: WheatCLIP: Object-Aware Wheat Ear Counting with Contrast Learning and Universal Knowledge Model
+paper: WheatGOAT: Generalizable Object-Aware Tracker via Discriminative Region Semantic Learning for Wheat Ear Counting
 ## The Overview of WheatCLIP
 ![](methodoverview.jpg)
 
