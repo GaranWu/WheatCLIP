@@ -37,4 +37,4 @@ Please change the relevant path in the test.py file
 python test.py 
 ```
 # Weight
- [Here](https://pan.baidu.com/s/1Ts6YQszzqiltmb9FTSvHuA?pwd=9fgn) are the trained WheatCLIP weights, the first ten layers of VGG16 weights, and the fine-tuned YOLOv8 weights.
+ [Here](https://pan.baidu.com/s/1Ts6YQszzqiltmb9FTSvHuA?pwd=9fgn) are the trained WheatGOAT weights, the first ten layers of VGG16 weights, and the fine-tuned YOLOv8 weights.
