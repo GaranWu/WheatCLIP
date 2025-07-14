@@ -3,7 +3,7 @@
 **WheatGOAT** is a wheat ear counting framework that uses large models and contrastive learning for feature enhancement.
 
 paper: WheatGOAT: Generalizable Object-Aware Tracker via Discriminative Region Semantic Learning for Wheat Ear Counting
-## The Overview of WheatCLIP
+## The Overview of WheatGOAT
 ![](methodoverview.jpg)
 
 
